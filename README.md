@@ -6,19 +6,21 @@ Hi! I'm Tanvir Alam Khan, a passionate Full Stack Developer dedicated to buildin
 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const tanvir = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "MongoDB", "Express.js"],
+  tools: ["React", "Redux", "Firebase", "Tailwind CSS", "DaisyUI", "React Router", "Recharts", "React Hook Form", "Framer Motion"],
+  architecture: ["Single Page Applications (SPA)", "Component-based architecture", "REST API"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    contributor: "Open Source Projects",
+    learner: "freeCodeCamp",
+    developer: "Personal Projects on GitHub"
+  },
+  challenge: "I am currently building multiple full-stack web applications and sharpening my skills in React, Node.js and Firebase Authentication 🚀"
 }
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 ## 🌐 Socials:
