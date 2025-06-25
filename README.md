@@ -1,7 +1,24 @@
 # 💫 About Me:
 Hi! I'm Tanvir Alam Khan, a passionate Full Stack Developer dedicated to building efficient and scalable web applications.
 
+
 <img src="https://raw.githubusercontent.com/TANVIRALAMKHAN72/TANVIRALAMKHAN72/main/banner.png" width="800" />
+
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 
 ## 🌐 Socials:
