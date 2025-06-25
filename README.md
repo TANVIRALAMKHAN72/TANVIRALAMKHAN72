@@ -9,7 +9,7 @@ Hi! I'm Tanvir Alam Khan, a passionate Full Stack Developer dedicated to buildin
 const tanvir = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "MongoDB", "Express.js"],
-  tools: ["React", "Redux", "Firebase", "Tailwind CSS", "DaisyUI", "React Router", "Recharts", "React Hook Form", "Framer Motion"],
+  tools: ["React", "Firebase", "Tailwind CSS", "DaisyUI", "React Router", "Recharts", "React Hook Form", "Framer Motion"],
   architecture: ["Single Page Applications (SPA)", "Component-based architecture", "REST API"],
   techCommunities: {
     contributor: "Open Source Projects",
