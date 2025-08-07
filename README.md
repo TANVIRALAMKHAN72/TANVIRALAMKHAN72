@@ -2,7 +2,7 @@
 Hi! I'm Tanvir Alam Khan, a passionate Full Stack MERN Developer dedicated to building efficient and scalable web applications.
 
 
-<img src="https://i.ibb.co/0yvsDnCM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" width="800" />
+<img src="https://i.ibb.co/0yvsDnCM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" width="1000" />
 
 
 
