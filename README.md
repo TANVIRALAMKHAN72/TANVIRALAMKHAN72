@@ -7,7 +7,11 @@ Current Activities
 🤝 Contributing to open-source & enhancing my portfolio
 
 
-<img src="https://i.ibb.co/0yvsDnCM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" width="1000" />
+<img 
+  src="https://i.ibb.co/0yvsDnCM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" 
+  width="1584" 
+  height="396" 
+/>
 
 
 
