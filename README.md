@@ -8,6 +8,14 @@ Current Activities
 
 
 
+<img 
+  src="https://i.ibb.co/0yvsDnCM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" 
+  width="1584" 
+  height="396" 
+/>
+
+
+
 
 ```javascript
 const tanvir = {
