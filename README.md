@@ -1,10 +1,5 @@
 # 💫 About Me:
 Hi! I’m Tanvir Alam Khan, a passionate Full Stack MERN Developer from Dhaka, Bangladesh. I build fast, responsive, and scalable web apps using React.js, Node.js, Express.js, MongoDB, and modern UI tools like Tailwind CSS. I love solving problems, learning new technologies, and turning ideas into real-world applications.
-<img 
-  src="https://i.ibb.co/0yvsDnCM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" 
-  width="1584" 
-  height="396" 
-/>
 
 Current Activities
 🚀 Developing full-stack MERN apps with Firebase Auth & REST APIs
